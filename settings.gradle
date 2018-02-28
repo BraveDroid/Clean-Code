@@ -1,0 +1,3 @@
+rootProject.name = 'clean-code'
+rootProject.buildFileName = 'build.gradle.kts'
+
